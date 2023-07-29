@@ -91,7 +91,6 @@ header .container {
   gap: 40px;
 }
 .head-logo {
-  display: flex;
   font-family:'Raleway';
   color: var(--text-color-black);
   font-weight: 800;
@@ -100,7 +99,6 @@ header .container {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
-
 }
 
 .navigation:last-child {
