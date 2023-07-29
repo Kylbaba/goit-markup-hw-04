@@ -148,14 +148,18 @@ header .container {
   padding-left: 0px;
   padding-bottom: 4px;
 }
-
+.solution-container{
+  width: 496px;
+  height: 120px;
+  /* padding: 188px 472px 188px 472px; */
+}
 .header-section {
 background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpg);
 max-width: 1440px;
 height: 600px;
 background-position: center;
 background-size: cover;
-padding: 188px 472px 292px 472px ;
+padding: 188px 472px 0 472px ;
 margin: 0 auto;
 background-repeat: no-repeat; 
 }
